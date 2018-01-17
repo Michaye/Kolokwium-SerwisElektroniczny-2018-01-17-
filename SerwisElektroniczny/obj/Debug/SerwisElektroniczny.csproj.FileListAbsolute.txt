@@ -1,0 +1,6 @@
+D:\dave\SerwisElektroniczny\bin\Debug\SerwisElektroniczny.exe.config
+D:\dave\SerwisElektroniczny\obj\Debug\SerwisElektroniczny.csprojResolveAssemblyReference.cache
+D:\dave\SerwisElektroniczny\bin\Debug\SerwisElektroniczny.exe
+D:\dave\SerwisElektroniczny\bin\Debug\SerwisElektroniczny.pdb
+D:\dave\SerwisElektroniczny\obj\Debug\SerwisElektroniczny.exe
+D:\dave\SerwisElektroniczny\obj\Debug\SerwisElektroniczny.pdb
